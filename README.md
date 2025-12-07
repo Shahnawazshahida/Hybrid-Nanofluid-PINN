@@ -23,5 +23,5 @@ This repository contains a Physics-Informed Neural Network (PINN) implementation
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Hybrid-Nanofluid-PINN.git](https://github.com/YOUR_USERNAME/Hybrid-Nanofluid-PINN.git)
-   cd Hybrid-Nanofluid-PINN
+git clone [https://github.com/Shahnawazshahida/Hybrid-Nanofluid-PINN.git](https://github.com/Shahnawazshahida/Hybrid-Nanofluid-PINN.git)
+cd Hybrid-Nanofluid-PINN
